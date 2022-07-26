@@ -2,6 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
 
+
+## Compilar y link de GitHub Pages
+
+Live on [https://farney9.github.io/piano-angular-app](https://farney9.github.io/piano-angular-app)
+
+## compile command
+
+```text
+ng build --output-path docs --base-href=https://farney9.github.io/piano-angular-app/
+```
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
