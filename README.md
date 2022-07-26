@@ -3,14 +3,18 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
 
 
-## Compilar y link de GitHub Pages
+## Live on 
 
-Live on [https://farney9.github.io/piano-angular-app](https://farney9.github.io/piano-angular-app)
+[https://piano-angular-app-far.netlify.app/](https://piano-angular-app-far.netlify.app/)
 
 ## compile command
 
-```text
+<!-- ```text
 ng build --output-path docs --base-href=https://farney9.github.io/piano-angular-app/
+``` -->
+
+```text
+ng build --prod
 ```
 
 ## Development server
